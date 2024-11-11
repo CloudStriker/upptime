@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: ClickNow Fansub
     url: https://clicknow.my.id
+  - name: Simpenan ClickNow Fansub
+    url: https://simpenan.clicknow.my.id
+  - name: Zentonator Portofolio
+    url: https://zentonator.clicknow.my.id
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
